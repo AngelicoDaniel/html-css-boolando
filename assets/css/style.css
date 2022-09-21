@@ -145,12 +145,13 @@ footer li{
 .img2{
     display: none;
     width: 100%;
+    object-fit: contain;
 }
 
 .card:hover .img{
     display: none;
 }
 
-.container:hover .img2{
+.card:hover .img2{
     display: block;
 }
