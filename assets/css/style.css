@@ -6,11 +6,16 @@
 
 header{
     background-color: #FF6900;
+    width: 100%;
 }
 
 .h-container{
     width: 80%;
-    display: flex   ;
+    display: flex;
+}
+
+.fixed{
+    position: fixed;
 }
 
 .space-between{
@@ -20,17 +25,17 @@ header{
 header ul{
     display: flex;
     color: white;
-    margin: 20px;
+    margin: 10px;
     list-style-type: none;
 }
 
 header img{
     height: 2.5rem;
-    margin: 10px 0;
+    margin: 20px 0;
 }
 
 header ul li{
-    margin: 0px 10px;
+    margin: 20px 10px;
     font-size: 1.2rem;
 }
 
