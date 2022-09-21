@@ -155,3 +155,11 @@ footer li{
 .card:hover .img2{
     display: block;
 }
+
+.heart:hover{
+    color: red;
+}
+
+header li:hover{
+    text-decoration: underline;
+}
