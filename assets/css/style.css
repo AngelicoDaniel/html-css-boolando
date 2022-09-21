@@ -47,6 +47,7 @@ header ul li{
 .container{
     width: 80%;
     margin: auto;
+    flex-wrap: wrap;
 }
 
 .card{
