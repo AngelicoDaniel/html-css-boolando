@@ -69,5 +69,14 @@ header ul li{
     padding: 10px;
 }
 
+.sconto{
+    padding: 10px;
+    color: white;
+    position: absolute;
+}
+
+.red{
+    background-color: red;
+}
 
 
