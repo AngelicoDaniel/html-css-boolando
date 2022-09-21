@@ -111,3 +111,8 @@ header ul li{
 .old-price{
     text-decoration: line-through;
 }
+
+.left{
+    position: absolute;
+    left: 0;
+}
