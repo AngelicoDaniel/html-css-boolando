@@ -67,16 +67,30 @@ header ul li{
     background-color: white;
     right: 0;
     padding: 10px;
+    top: 10px;
 }
 
 .sconto{
-    padding: 10px;
+    padding: 5px;
     color: white;
     position: absolute;
+    bottom: 100px;
 }
 
 .red{
     background-color: red;
+}
+
+.sustain{
+    padding: 5px;
+    color: white;
+    position: absolute;
+    bottom: 100px;
+    left: 50px;
+}
+
+.green{
+    background-color: lightgreen;
 }
 
 
