@@ -93,4 +93,20 @@ header ul li{
     background-color: lightgreen;
 }
 
+.details{
+    margin: 0;
+    line-height: auto;
+}
 
+.item{
+    font-weight: bolder;
+}
+
+.price{
+    font-weight: bolder;
+    color: red;
+}
+
+.old-price{
+    text-decoration: line-through;
+}
