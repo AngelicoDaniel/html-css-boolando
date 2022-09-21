@@ -7,3 +7,28 @@
 header{
     background-color: #FF6900;
 }
+
+.h-container{
+    width: 80%;
+    display: flex   ;
+}
+
+.space-between{
+    justify-content: space-between;
+}
+
+header ul{
+    display: flex;
+    color: white;
+    margin: 20px;
+    list-style-type: none;
+}
+
+header img{
+    height: 4rem;
+    margin: 10px 0;
+}
+
+
+
+
