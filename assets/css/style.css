@@ -61,6 +61,7 @@ header ul li{
 
 .img{
     width: 100%;
+    object-fit: contain;
 }
 
 .heart{
@@ -138,5 +139,18 @@ footer ul{
 }
 
 footer li{
-    padding: 5  px;
+    padding: 5px;
+}
+
+.img2{
+    display: none;
+    width: 100%;
+}
+
+.card:hover .img{
+    display: none;
+}
+
+.container:hover .img2{
+    display: block;
 }
