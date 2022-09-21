@@ -18,6 +18,10 @@ header{
     position: fixed;
 }
 
+.flex{
+    display: flex;
+}
+
 .space-between{
     justify-content: space-between;
 }
@@ -41,11 +45,14 @@ header ul li{
 
 .container{
     width: 80%;
+    margin: auto;
 }
 
-
-
-
+.colonne{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
 
 
 
