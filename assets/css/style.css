@@ -119,4 +119,20 @@ header ul li{
 
 footer{
     background-color: rgb(26,26,26);
+    color: white;
+}
+
+    
+
+.f-container{
+    display: flex;
+    width: 80%;
+    align-items: center;
+    margin: auto;
+}
+
+ul{
+    list-style-type: none;
+    display: flex;
+    padding: 10px;
 }
