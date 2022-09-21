@@ -116,3 +116,7 @@ header ul li{
     position: absolute;
     left: 0;
 }
+
+footer{
+    background-color: rgb(26,26,26);
+}
