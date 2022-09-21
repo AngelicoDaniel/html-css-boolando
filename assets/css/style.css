@@ -7,6 +7,7 @@
 header{
     background-color: #FF6900;
     width: 100%;
+    z-index: 1;
 }
 
 .h-container{
@@ -51,8 +52,9 @@ header ul li{
 .card{
     display: flex;
     flex-wrap: wrap;
-    flex-basis: 31%;
+    flex-basis: 32%;
     margin-top: 100px;
+    position: relative;
 
 }
 
@@ -60,6 +62,12 @@ header ul li{
     width: 100%;
 }
 
+.heart{
+    position: absolute;
+    background-color: white;
+    right: 0;
+    padding: 10px;
+}
 
 
 
